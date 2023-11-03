@@ -1,0 +1,160 @@
+String is a set of character
+List is collection of homogeneous and hetorogeneous element
+tuple is like list  It is collection of data type 
+Tuple is a immutable collection
+Tuple object does not support item assignment
+Tuple is used for data security
+Set is a collection of unique element .It removes duplicate element
+Set is not allows slicing operations.It is subscriptable.
+Set allows you to add only primitive host
+In set we cannot add list 
+Set alawys hold unorder collection of unique element.It finds the uniqueness in primitive data type 
+In set we can add tuples bcoz tuple is immutable.
+SET removes duplicate tuples inside set.for uniqueness
+In case of unorder collection we not get indices (EG. SET) ..In this case we cant do manuplation operations
+Set is not mutable or immutable it is unorder.
+SET is case sensitive.  eg.{"sudh" , "Sudh" }
+In dict we cant able to use special character,underscore as a key
+In dict we use key value pair.
+Key should be alawys unique .
+Key should be immutable element so we can give tuple as key
+While loop is alawys work based on the conditions
+Print alawys try to return none type
+CTR +SHIFT +ESC gives you system configurantion
+String is iterable object not iterator
+Int is not iterable
+iter()func is try to convert  iterable into iterator
+Genarator is a kind of a object which will be able to genarate a data set for us by following certain rules that we are mention
+without storing each and everything into the memory.
+Yeild will help you out to convert a func as a genarator ... and it not giving you list....it throws the dataset on console one by one.
+Yeild remember 3 things .. what i produce last time..what is the logic ...and where i have to stop 
+yeild helps  you to internally memory management where you avoid to produce old thing to produce new one 
+Exception is a super class of a exception
+sub class (i/o , arithematic , out of index)
+Packages are collection of modules
+KIVY and TINKER KT libs are used to make GUI.
+####INIT FUNCTION#########
+
+Init is nothing but a constuctor
+constuctor is nothing but something which will try to pass a data to a class.
+self is a pointer
+Polymorphism - one single object or entity but if its behaviour is change with diff diff situation that is called as polymorphism
+multiple forms
+
+
+DECORATORS are nothing but a predefined /prewritten func which is available inside the python module Its a symbolic representation , if i use staticmethod decorator in that case just use that method as static method not as a instance method
+
+
+If i try to create variable whose values will be same for everything for all fun and method i create a static variable
+If i would try to create static fun which is not having any dependancies with resp to object creation then i ll use static fun
+
+
+Abstraction is nothing but a blueprint
+
+https://drive.google.com/drive/u/2/folders/1sn-bpcW0JW1JBTyFQvQbTCvBjbHYwTRC interview prep
+
+https://github.com/harshsanghvi41/Data-Analysis         - DATA Analysis 
+
+Python Assignment -
+ https://github.com/krishnavizster/Python-Assignment-
+https://github.com/bmanishp/Python-Basic-Assignments
+https://github.com/bmanishp/Python-Programming_Assignment
+
+https://github.com/vtech20/ineuron_assignments  ---------IMPPP-------------https://github.com/vtech20/ineuron_assignments
+https://github.com/d1b2
+
+
+
+
+GITHUG LinkS : 
+https://docs.google.com/document/d/1MgoSNA_azUe0lmPfcWwnuaIfeS4B4qRRiWqez8PXybU/edit
+
+rakshanda-mahajan-9985081a0
+
+
+https://github.com/karthebans/iNeuron/blob/main/Task-Copy1%20(1).ipynb - IMPPP
+https://github.com/vtech20/keras_tuner_sample ------- IMPPP
+
+ 
+
+https://drive.google.com/drive/u/2/folders/1bsQOjPiweJV78GuChpJx0yC4jnzl_MOP      Interview PREPARATION
+
+https://drive.google.com/drive/folders/13s1RR8eSLng--GuQpZ74y1Fzifmitp9Y    material link
+
+https://github.com/iNeuronai/same-resume-year-wise                        Resume Link
+
+
+
+
+https://github.com/vtech20/keras_tuner_sample
+https://drive.google.com/drive/folders/129WiFOx73ZP3meeWheETMBXaYfDTWC5m
+https://github.com/karthebans/iNeuron/blob/main/Task-Copy1%20(1).ipynb
+
+
+
+"GET /favicon.ico HTTP/1.1" 404 -
+HTTP Error 500: Internal Server Error
+
+
+
+
+
+
+
+
+
+Hi
+
+while solving the below question
+
+**3. How to remove duplicate rows from Employees table.**
+
+WITH WORKERCTE AS
+(
+   SELECT  *, ROW_NUMBER() OVER (PARTITION BY WORKER_ID ORDER BY WORKER_ID) AS ROWNUMBER 
+   FROM WORKER
+)
+DELETE FROM WORKERCTE WHERE ROWNUMBER >1;
+
+I am getting this error > Error Code: 1288. The target table WORKERCTE of the DELETE is not updatable
+
+Radhashyam@7
+
+https://github.com/krishnaik06/5-Days-Live-EDA-and-Feature-Engineering
+
+
+
+allll Taskkkkkkkkk-       https://drive.google.com/drive/folders/1fAkjCEv13IQKA7t1iCOBRHlFaT3I608_
+
+
+https://drive.google.com/drive/folders/13s1RR8eSLng--GuQpZ74y1Fzifmitp9Y    material link
+
+https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html
+
+
+
+GITHUG API TOKEN - 
+
+username = __token__
+
+pypi-AgEIcHlwaS5vcmcCJDFhNThkZDY5LWRmYzYtNDM1ZC04NDQxLTZhNjQ3OTJiYTk4YQACKlszLCJiOTM5MmZiYS04NTEwLTQwN2YtYWFhNS0wNzEwNjFiMzMyNjgiXQAABiCOu8wVcEbPBGjlFgo3gbhRzRe3HR0bQwqHsSaO2p1rcw
+
+package link- https://pypi.org/project/pyfactorial/0.0.1/
+
+steps - 
+pytest tests/      
+
+pip install twine    
+pip install -e .  
+twine upload --verbose --username __token__ dist/*    
+
+
+View at:
+https://pypi.org/project/pyfactorial/0.0.1/
+
+
+
+
+
+
+

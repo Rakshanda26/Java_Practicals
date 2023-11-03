@@ -1,0 +1,123 @@
+1 . you have to write a func which will take string and return a len of it without using a inbuilt fun (len)
+
+2. write a func which will be able to print index of all the primitive element which you will pass
+
+3. write a func which will take a nested dict and give me output as a list of all the values even in case of 2 
+level nesting it should be work.
+
+4. write a fun which will take another func as an input and return me an output
+
+5. write a function which will take multiple list as a input and give me concatnation of all the element as and output
+
+6. write a function which will be able to take a list as an input return an index of each element like a inbuilt
+index function but even if we have repetative element it should return index
+
+7.write a function which will should return list of all the file name from  a directory.
+
+8. write a func which will be able to show your systm configuration
+
+9. write a func which will be able to show date and time
+
+10 . write a fun which will be able to read a image file and show it to you.
+
+11. write a func which can read video file and play for you.  *****
+
+12. write a func which can move a file from one directory to another directory
+
+13/ write a func which will be able to shutdown your system.
+
+14. write a fun which will able to access your mail.      ****
+
+15. write a func which i can send a mail to anyone.      *****
+
+16. write a func to read a complete pdf file
+
+17. write a func to read word file.
+
+18. write a func which can help you to filter only word file from dict
+
+19. write a func by which you can print an ip address of your system.
+
+20. write a func by which you will be able to append two pdf files.
+
+[4:35] dict quen
+
+21 .create a kind of a tool by which you will be able to browse each and everything 
+list down all the files
+find wheather in current directory, we have pdf or not
+if pdf = 0, do nothing
+if pdf>0, merge all the pdf
+
+by using tkinter,kivy lib
+kivy is best
+
+RESTRICTION::
+Use logging
+use modular coding
+use exception handling
+
+
+22.create a class for directory parsing
+
+1.write a function to give all the keys
+2.write a function to give all the values
+3.write a function to throw an exception in case of input is not dict
+4.write a func for take user input and then parse a key and value out of dict
+5. write a function to insert new key value pair into directory
+
+
+23. create your own package for all the list function
+24. create your own package for all the tuple function
+25. create your own package for all dictionary function
+26. create your own package for all the set function
+
+	restriction:
+		alawys use exception handling
+		never use print statement
+		alawys use logging while writting a code and log every activity performed by code in respective logging file
+
+
+27. create a file class for reading data from respective file with a method name read and write.
+    1. try to inherit read and write method from parent class to child class to perform read and write operation.
+
+
+
+
+q1 - create your own class for to achieve , multiple and multilevel inheritance
+q2 - create your own class to represent polymorphism
+q3 - create your own class for custome exception
+q4 - create your own calss to achive encapsulation
+q5 - create your own class to achive method overloading and overriding.
+
+
+@
+
+Task for today:
+
+1 . try to found a count of each and every word in resp file return a list of tuples with word and its resp count
+    eg. [(sudh , 6)]
+    
+2. try to perform a reduce operation to get a count of all the word starting with same alphabet.
+   eg [(a,56)]
+   
+3. try to filter out all the data without punctuation./try to filter out all the words from dataset.
+     eg. 001. abstract = abstract
+         .002 = delete
+         
+4. create a tuple set of all the records available in all the five file  and then store it in sqllite DB.
+
+
+
+
+
+https://www.youtube.com/watch?v=FWNH5N6OfNk
+
+
+How to solve this file type is not supported in Protected View?
+From the Options dialog box, go to Trust Center and click on Trust Center Settings. From the Trust Center Settings dialog box, select the Protected View tab. Uncheck the appropriate option under the Protected View section, and then click OK to apply the changes.
+
+https://drive.google.com/drive/folders/1wSB0krT18_JLwXu7OfO2J6Fqc4kBka2I  -INSANE BONUSES
+https://drive.google.com/drive/folders/1wSB0krT18_JLwXu7OfO2J6Fqc4kBka2I      - DRIVE LINK
+
+https://www.youtube.com/watch?v=FWNH5N6OfNk -------- VBA INDEX MACROS TOOL 
+
